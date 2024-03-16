@@ -1,0 +1,603 @@
+{
+    "2320864323": {
+        "lasttime": 1702629284.0551167,
+        "weapon": "破旧的水果刀",
+        "cash": 1,
+        "bank_money": 2031,
+        "job": "环卫工人",
+        "武力值": 8,
+        "roblasttime": 1702622927.1953526,
+        "robbed_lasttime": 1702745642.0047605,
+        "health": 150,
+        "jobset": {
+            "环卫工人": {
+                "working_situation": "辛苦地扫完大街后，你获得了30块",
+                "work_cd": 300,
+                "work_salary": 30
+            }
+        },
+        "joobset": {
+            "货运司机": {
+                "working_situation": "辛苦地拉完一车货后，你获得了68块",
+                "work_cd": 500,
+                "work_salary": 68
+            }
+        },
+        "last_qiandao_time": "2023.12.15",
+        "背包": {}
+    },
+    "2059341348": {
+        "lasttime": 1702516522.0728035,
+        "weapon": "破旧的水果刀",
+        "cash": 49,
+        "bank_money": 0,
+        "job": "环卫工人",
+        "武力值": 8,
+        "roblasttime": 1702516760.0465515,
+        "robbed_lasttime": 1702377998.7284238,
+        "health": 94,
+        "jobset": {
+            "货运司机": {
+                "working_situation": "辛苦地拉完一车货后，你获得了68块",
+                "work_cd": 500,
+                "work_salary": 68
+            }
+        },
+        "joobset": {
+            "货运司机": {
+                "working_situation": "辛苦地拉完一车货后，你获得了68块",
+                "work_cd": 500,
+                "work_salary": 68
+            }
+        },
+        "last_qiandao_time": "2023.12.14",
+        "背包": {
+            "炒饭": {
+                "数量": 3,
+                "物品描述": "香喷喷的炒饭",
+                "效果": {
+                    "health": 10,
+                    "roblasttime": -200,
+                    "lasttime": -300
+                }
+            }
+        }
+    },
+    "2087374501": {
+        "lasttime": 1703684066.1547065,
+        "weapon": "破旧的水果刀",
+        "cash": 1,
+        "bank_money": 9588,
+        "job": "环卫工人",
+        "武力值": 8,
+        "roblasttime": 1703125987.9453695,
+        "robbed_lasttime": 1702623527.1953526,
+        "health": 91,
+        "jobset": {
+            "货运司机": {
+                "working_situation": "辛苦地拉完一车货后，你获得了68块",
+                "work_cd": 500,
+                "work_salary": 68
+            }
+        },
+        "last_qiandao_time": "2023.12.27",
+        "背包": {
+            "炒饭": {
+                "数量": 3,
+                "物品描述": "香喷喷的炒饭",
+                "效果": {
+                    "health": 10,
+                    "roblasttime": -200,
+                    "lasttime": -300
+                }
+            },
+            "泡芙": {
+                "数量": 3,
+                "物品描述": "香喷喷的泡芙，一口下去全是奶油",
+                "效果": {
+                    "roblasttime": -1000,
+                    "lasttime": 300,
+                    "health": -2
+                }
+            }
+        }
+    },
+    "1191862352": {
+        "lasttime": 1703684095.5619614,
+        "weapon": "破旧的水果刀",
+        "cash": 65,
+        "bank_money": 3888,
+        "job": "环卫工人",
+        "武力值": 8,
+        "roblasttime": 1703679686.8580678,
+        "robbed_lasttime": 1703679670.7422774,
+        "health": 100,
+        "jobset": {
+            "货运司机": {
+                "working_situation": "辛苦地拉完一车货后，你获得了68块",
+                "work_cd": 500,
+                "work_salary": 68
+            }
+        },
+        "last_qiandao_time": "2023.12.27",
+        "背包": {
+            "炒饭": {
+                "数量": 3,
+                "物品描述": "香喷喷的炒饭",
+                "效果": {
+                    "health": 10,
+                    "roblasttime": -200,
+                    "lasttime": -300
+                }
+            },
+            "泡芙": {
+                "数量": 6,
+                "物品描述": "香喷喷的泡芙，一口下去全是奶油",
+                "效果": {
+                    "roblasttime": -1000,
+                    "lasttime": 300,
+                    "health": -2
+                }
+            }
+        }
+    },
+    "1944001329": {
+        "lasttime": 1702001315.6398833,
+        "weapon": "无",
+        "cash": 157,
+        "bank_money": 0,
+        "job": "环卫工人",
+        "武力值": 5,
+        "roblasttime": 0,
+        "robbed_lasttime": 1701961374.561523,
+        "health": 100,
+        "jobset": {
+            "环卫工人": {
+                "working_situation": "辛苦地扫完大街后，你获得了30块",
+                "work_cd": 300,
+                "work_salary": 30
+            }
+        },
+        "last_qiandao_time": "2023.1.1",
+        "背包": {
+            "炒饭": {
+                "数量": 3,
+                "物品描述": "香喷喷的炒饭",
+                "效果": {
+                    "health": 10,
+                    "roblasttime": -200,
+                    "lasttime": -300
+                }
+            }
+        }
+    },
+    "1837719548": {
+        "lasttime": 1703653764.0058544,
+        "weapon": "破旧的水果刀",
+        "cash": 64,
+        "bank_money": 176,
+        "job": "环卫工人",
+        "武力值": 8,
+        "roblasttime": 1702639260.9101536,
+        "robbed_lasttime": 1702639555.1785665,
+        "health": 97,
+        "jobset": {
+            "环卫工人": {
+                "working_situation": "辛苦地扫完大街后，你获得了30块",
+                "work_cd": 300,
+                "work_salary": 30
+            }
+        },
+        "last_qiandao_time": "2023.1.1",
+        "背包": {
+            "炒饭": {
+                "数量": 3,
+                "物品描述": "香喷喷的炒饭",
+                "效果": {
+                    "health": 10,
+                    "roblasttime": -200,
+                    "lasttime": -300
+                }
+            }
+        }
+    },
+    "1286835307": {
+        "lasttime": 1702618541.9435654,
+        "weapon": "破旧的水果刀",
+        "cash": 20,
+        "bank_money": 427,
+        "job": "环卫工人",
+        "武力值": 8,
+        "health": 107,
+        "roblasttime": 1702618577.2301776,
+        "robbed_lasttime": 1703125987.9453695,
+        "jobset": {
+            "环卫工人": {
+                "working_situation": "辛苦地扫完大街后，你获得了30块",
+                "work_cd": 300,
+                "work_salary": 30
+            }
+        },
+        "last_qiandao_time": "2023.12.14",
+        "背包": {
+            "炒饭": {
+                "数量": 2,
+                "物品描述": "香喷喷的炒饭",
+                "效果": {
+                    "health": 10,
+                    "roblasttime": -200,
+                    "lasttime": -300
+                }
+            }
+        }
+    },
+    "1430373483": {
+        "lasttime": 1701962116.686688,
+        "weapon": "无",
+        "cash": 600,
+        "bank_money": 0,
+        "job": "环卫工人",
+        "武力值": 5,
+        "health": 77,
+        "roblasttime": 1701950963.2955625,
+        "robbed_lasttime": 0,
+        "jobset": {
+            "环卫工人": {
+                "working_situation": "辛苦地扫完大街后，你获得了30块",
+                "work_cd": 300,
+                "work_salary": 30
+            }
+        },
+        "last_qiandao_time": "2023.1.1",
+        "背包": {
+            "炒饭": {
+                "数量": 3,
+                "物品描述": "香喷喷的炒饭",
+                "效果": {
+                    "health": 10,
+                    "roblasttime": -200,
+                    "lasttime": -300
+                }
+            }
+        }
+    },
+    "1659789755": {
+        "lasttime": 1701944467.5532985,
+        "weapon": "无",
+        "cash": 150,
+        "bank_money": 0,
+        "job": "环卫工人",
+        "武力值": 5,
+        "health": 95,
+        "roblasttime": 1701944533.1748333,
+        "robbed_lasttime": 0,
+        "jobset": {
+            "环卫工人": {
+                "working_situation": "辛苦地扫完大街后，你获得了30块",
+                "work_cd": 300,
+                "work_salary": 30
+            }
+        },
+        "last_qiandao_time": "2023.1.1",
+        "背包": {
+            "炒饭": {
+                "数量": 3,
+                "物品描述": "香喷喷的炒饭",
+                "效果": {
+                    "health": 10,
+                    "roblasttime": -200,
+                    "lasttime": -300
+                }
+            }
+        }
+    },
+    "2848516645": {
+        "lasttime": 1702025315.4069788,
+        "weapon": "破旧的水果刀",
+        "cash": 172,
+        "bank_money": 800,
+        "job": "环卫工人",
+        "武力值": 8,
+        "health": 3,
+        "roblasttime": 1702025324.1420443,
+        "robbed_lasttime": 1702022066.6475883,
+        "jobset": {
+            "环卫工人": {
+                "working_situation": "辛苦地扫完大街后，你获得了30块",
+                "work_cd": 300,
+                "work_salary": 30
+            }
+        },
+        "last_qiandao_time": "2023.1.1",
+        "背包": {
+            "炒饭": {
+                "数量": 3,
+                "物品描述": "香喷喷的炒饭",
+                "效果": {
+                    "health": 10,
+                    "roblasttime": -200,
+                    "lasttime": -300
+                }
+            }
+        }
+    },
+    "2357292597": {
+        "lasttime": 1702519075.33486,
+        "weapon": "破旧的水果刀",
+        "cash": 45,
+        "bank_money": 400,
+        "job": "环卫工人",
+        "武力值": 8,
+        "health": 100,
+        "roblasttime": 1702519115.1687527,
+        "robbed_lasttime": 1702432633.2601502,
+        "jobset": {
+            "环卫工人": {
+                "working_situation": "辛苦地扫完大街后，你获得了30块",
+                "work_cd": 300,
+                "work_salary": 30
+            }
+        },
+        "last_qiandao_time": "2023.1.1",
+        "背包": {
+            "炒饭": {
+                "数量": 3,
+                "物品描述": "香喷喷的炒饭",
+                "效果": {
+                    "health": 10,
+                    "roblasttime": -200,
+                    "lasttime": -300
+                }
+            }
+        }
+    },
+    "1336351513": {
+        "lasttime": 1701953405.415946,
+        "weapon": "无",
+        "cash": 150,
+        "bank_money": 0,
+        "job": "环卫工人",
+        "武力值": 5,
+        "health": 100,
+        "roblasttime": 0,
+        "robbed_lasttime": 0,
+        "jobset": {
+            "环卫工人": {
+                "working_situation": "辛苦地扫完大街后，你获得了30块",
+                "work_cd": 300,
+                "work_salary": 30
+            }
+        },
+        "last_qiandao_time": "2023.1.1",
+        "背包": {
+            "炒饭": {
+                "数量": 3,
+                "物品描述": "香喷喷的炒饭",
+                "效果": {
+                    "health": 10,
+                    "roblasttime": -200,
+                    "lasttime": -300
+                }
+            }
+        }
+    },
+    "2439608562": {
+        "lasttime": 0.0,
+        "weapon": "无",
+        "cash": 0,
+        "bank_money": 0,
+        "job": "环卫工人",
+        "武力值": 5,
+        "health": 100,
+        "roblasttime": 0,
+        "robbed_lasttime": 1702439195.9096942,
+        "jobset": {
+            "环卫工人": {
+                "working_situation": "辛苦地扫完大街后，你获得了30块",
+                "work_cd": 300,
+                "work_salary": 30
+            }
+        },
+        "last_qiandao_time": "2023.1.1",
+        "背包": {
+            "炒饭": {
+                "数量": 3,
+                "物品描述": "香喷喷的炒饭",
+                "效果": {
+                    "health": 10,
+                    "roblasttime": -200,
+                    "lasttime": -300
+                }
+            }
+        }
+    },
+    "2947822753": {
+        "lasttime": 1703653582.5806649,
+        "weapon": "破旧的水果刀",
+        "cash": 67,
+        "bank_money": 556,
+        "job": "环卫工人",
+        "jobset": {
+            "环卫工人": {
+                "working_situation": "辛苦地扫完大街后，你获得了30块",
+                "work_cd": 300,
+                "work_salary": 30
+            }
+        },
+        "武力值": 8,
+        "health": 110,
+        "roblasttime": 1702635062.0041232,
+        "robbed_lasttime": 1702618577.2301776,
+        "last_qiandao_time": "2023.12.15",
+        "背包": {
+            "炒饭": {
+                "数量": 2,
+                "物品描述": "香喷喷的炒饭",
+                "效果": {
+                    "health": 10,
+                    "roblasttime": -200,
+                    "lasttime": -300
+                }
+            }
+        }
+    },
+    "2062926551": {
+        "lasttime": 1703650517.9960635,
+        "weapon": "破旧的水果刀",
+        "cash": 9,
+        "bank_money": 100,
+        "job": "环卫工人",
+        "jobset": {
+            "环卫工人": {
+                "working_situation": "辛苦地扫完大街后，你获得了30块",
+                "work_cd": 300,
+                "work_salary": 30
+            }
+        },
+        "武力值": 8,
+        "health": 100,
+        "roblasttime": 1703679670.7422774,
+        "robbed_lasttime": 1703679686.8580678,
+        "last_qiandao_time": "2023.1.1",
+        "背包": {
+            "炒饭": {
+                "数量": 3,
+                "物品描述": "香喷喷的炒饭",
+                "效果": {
+                    "health": 10,
+                    "roblasttime": -200,
+                    "lasttime": -300
+                }
+            }
+        }
+    },
+    "1454528084": {
+        "lasttime": 240.0,
+        "weapon": "无",
+        "cash": 1,
+        "bank_money": 100,
+        "job": "环卫工人",
+        "jobset": {
+            "环卫工人": {
+                "working_situation": "辛苦地扫完大街后，你获得了30块",
+                "work_cd": 300,
+                "work_salary": 30
+            }
+        },
+        "武力值": 5,
+        "health": 100,
+        "roblasttime": -300,
+        "robbed_lasttime": 1702618093.3933043,
+        "last_qiandao_time": "2023.12.15",
+        "背包": {
+            "炒饭": {
+                "数量": 3,
+                "物品描述": "香喷喷的炒饭",
+                "效果": {
+                    "health": 10,
+                    "roblasttime": -200,
+                    "lasttime": -300
+                }
+            }
+        }
+    },
+    "2530354542": {
+        "lasttime": 1702615205.9802198,
+        "weapon": "无",
+        "cash": 72,
+        "bank_money": 0,
+        "job": "环卫工人",
+        "jobset": {
+            "环卫工人": {
+                "working_situation": "辛苦地扫完大街后，你获得了30块",
+                "work_cd": 300,
+                "work_salary": 30
+            }
+        },
+        "武力值": 5,
+        "health": 100,
+        "roblasttime": 1702615766.5072687,
+        "robbed_lasttime": 1702615705.6359565,
+        "last_qiandao_time": "2023.1.1",
+        "背包": {
+            "炒饭": {
+                "数量": 3,
+                "物品描述": "香喷喷的炒饭",
+                "效果": {
+                    "health": 10,
+                    "roblasttime": -200,
+                    "lasttime": -300
+                }
+            }
+        }
+    },
+    "3067559135": {
+        "lasttime": 0.0,
+        "weapon": "无",
+        "cash": 5,
+        "bank_money": 201,
+        "job": "环卫工人",
+        "jobset": {
+            "环卫工人": {
+                "working_situation": "辛苦地扫完大街后，你获得了30块",
+                "work_cd": 300,
+                "work_salary": 30
+            }
+        },
+        "武力值": 5,
+        "health": 97,
+        "roblasttime": 1702627134.1714683,
+        "robbed_lasttime": 1702635062.0041232,
+        "last_qiandao_time": "2023.1.1",
+        "背包": {
+            "炒饭": {
+                "数量": 3,
+                "物品描述": "香喷喷的炒饭",
+                "效果": {
+                    "health": 10,
+                    "roblasttime": -200,
+                    "lasttime": -300
+                }
+            }
+        }
+    },
+    "1637664832": {
+        "lasttime": 0.0,
+        "weapon": "无",
+        "cash": 120,
+        "bank_money": 129,
+        "job": "环卫工人",
+        "jobset": {
+            "环卫工人": {
+                "working_situation": "辛苦地扫完大街后，你获得了30块",
+                "work_cd": 300,
+                "work_salary": 30
+            }
+        },
+        "武力值": 5,
+        "health": 100,
+        "roblasttime": 0,
+        "robbed_lasttime": 0,
+        "last_qiandao_time": "2023.12.20",
+        "背包": {
+            "炒饭": {
+                "数量": 3,
+                "物品描述": "香喷喷的炒饭",
+                "效果": {
+                    "health": 10,
+                    "roblasttime": -200,
+                    "lasttime": -300
+                }
+            },
+            "泡芙": {
+                "数量": 3,
+                "物品描述": "香喷喷的泡芙，一口下去全是奶油",
+                "效果": {
+                    "roblasttime": -1000,
+                    "lasttime": 300,
+                    "health": -2
+                }
+            }
+        }
+    }
+}
